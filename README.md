@@ -16,7 +16,7 @@
 
 ## Sample Api Calls
 
-### Base URL - http://127.0.0.1:8000/containers/   user same as a get call for getting list of conatiners
+### Base URL - http://127.0.0.1:8000/containers/   use same as a get call for getting list of conatiners
 
 ## Create Continer
 ### Post - baseurl    body - {"name": "somenew3"} 
